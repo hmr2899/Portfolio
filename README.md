@@ -1,6 +1,6 @@
 # Data Analytics Portfolio 
 
-#Introduction
+## Introduction
 I am a software Developer,an Aspiring Analyst and a Data Scientist.
 This Portfolio is a compilation of all the Data Analytics projects I have done. This portfolio also contains skills and certificates. 
 
