@@ -65,3 +65,11 @@ The objective of the project is to create multiple forecast models for two diffe
 The project involved developing a credit risk default model on Indian companies using the performance data of several companies to predict whether a company is going to default on upcoming loan payments.
 
 **Skills & Tools**: Credit Risk, Loan Default, Finance
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/grocery.jpg"> **[Recommending ways to increase revenue of a Grocery Store](https://github.com/hmr2899/Market-basket-analysis)**
+
+The project involves conducting a thorough analysis of Point of Sale (POS) Data for providing recommendations through which a grocery store can increase its revenue by coming up with attractive combo & discount offers for customers.
+
+**Skills & Tools**: Market Basket Analysis, Exploratory Data Analysis, KNIME, Python
