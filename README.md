@@ -30,6 +30,14 @@ Implemented various machine learning algorithms & selected an ideal algorithm to
 
 #
 
+<img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/bike.png"> **[Bike Share - Regression Model](https://github.com/hmr2899/Uber-EDA)**
+
+The main objective of this project is to build a regression model that predicts the number of daily bike users and also provide reccomendations from the model results.
+
+**Skills & Tools**:  Regression, R
+
+#
+
 <img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/bank-1.png"> **[Bank Customer Segmentation & Insurance Claim Prediction](https://github.com/hmr2899/bank-customer-segmentation)**
 
 The project involved drawing inferences from 2 case studies, namely - Bank Marketing & Insurance.The concepts of Clustering, CART, Random Forest, Artificial Neural Network are used to draw inferences from these case studies.
