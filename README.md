@@ -13,9 +13,7 @@ This Portfolio is a compilation of all the Data Analytics projects I have done. 
 ## Projects
 
 ### Data Mining
-
 #
-
 <img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/uber.jpg"> **[Uber Drive Exploratory Data Analysis](https://github.com/hmr2899/Uber-EDA)**
 
 The project is based on the trips made by Uber drivers. Different aspects of the trip are analyzed by using different functions in Python.
