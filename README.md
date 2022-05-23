@@ -126,12 +126,12 @@ The project involved drawing inferences from 2 case studies, namely - Hay Fever 
 
 * Business Intelligence | Sales Report Analysis, Bicycle company
 
-  • Developed SQL queries to extract business insights from the data warehouse of a bicycle company
-  • Performed historical sales analysis for retail and wholesale segments using SQL joins, partitions, temporary tables, and window aggregation functions
-  • Built crosstab report in Power BI providing sales insights segmented by product category and fiscal year
+  - Developed SQL queries to extract business insights from the data warehouse of a bicycle company
+  - Performed historical sales analysis for retail and wholesale segments using SQL joins, partitions, temporary tables, and window aggregation functions
+  - Built crosstab report in Power BI providing sales insights segmented by product category and fiscal year
   
 * Business Intelligence | ETL,  Bicycle company
   
-  • Created SQL queries to extract business insights from data warehouse of a bicycle company
-  • Analyzed database physical structure and functional requirements of virtual users 
-  • Developed ETL process for production data utilizing Visual Studio, and built production data warehouse in SQL
+  - Created SQL queries to extract business insights from data warehouse of a bicycle company
+  - Analyzed database physical structure and functional requirements of virtual users 
+  - Developed ETL process for production data utilizing Visual Studio, and built production data warehouse in SQL
