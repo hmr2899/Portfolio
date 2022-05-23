@@ -157,5 +157,8 @@ The project involved drawing inferences from 2 case studies, namely - Hay Fever 
   - Analyzed data on SOX Compliance and Controls processes to assist in development of future requirements
   - Combined data from multiple sources, cleansed data in Alteryx and built dashboards using Tableau illustrating control procedures insights and presented results       to senior management highlighting proposed system development strategy
 
+## Certifications
 
+  - CCNA Routing and Switching: Introduction to Networks
+ <img width="48" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGkbfwG3S0TkQ/company-logo_100_100/0/1532970672836?e=1661385600&amp;v=beta&amp;t=-oMjbi7YZE6kCMC49UIHY_hvCHfgsQmxqTRpXPJx9ns" loading="lazy" height="48" alt="American Heart Association logo" id="ember1383" class="ivm-view-attr__img--centered EntityPhoto-square-3">
 
