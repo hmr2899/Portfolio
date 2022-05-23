@@ -22,7 +22,7 @@ The project is based on the trips made by Uber drivers. Different aspects of the
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/mobicom.png"> **[Mobicom- Telecom company churn prediction model](https://github.com/hmr2899/Uber-EDA)**
+<img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/mobicom.png"> **[Mobicom- Telecom company churn prediction model](https://github.com/hmr2899/Churn-prediction-model)**
 
 Implemented various machine learning algorithms & selected an ideal algorithm to predict the potential behavior of customers & evaluate the factors driving the likelihood of churn.Identified target customer segments using K-Means Clustering by analyzing the data for proactive campaigns.
 
@@ -30,7 +30,7 @@ Implemented various machine learning algorithms & selected an ideal algorithm to
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/bike.png"> **[Bike Share - Regression Model](https://github.com/hmr2899/Uber-EDA)**
+<img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/bike.png"> **[Bike Share - Regression Model](https://github.com/hmr2899/Bike-share-regression-model)**
 
 The main objective of this project is to build a regression model that predicts the number of daily bike users and also provide reccomendations from the model results.
 
