@@ -109,7 +109,7 @@ The project involved drawing inferences from 2 case studies, namely - Hay Fever 
   
   * [Best Rest Market Analysis](https://github.com/hmr2899/statistical-analysis)
  
-  Analyzed data compiled in 3 different research studies related to mattress sales, customer reviews and product performance.Gathered insights to support an      acquisition decision and market entry of a product. Carried out various statistical methods such as paired T-tests and regression analysis to assess brand reputation, customer buying preferences and product effectiveness
+  Analyzed data compiled in 3 different research studies related to mattress sales, customer reviews and product performance.Gathered insights to support an            acquisition decision and market entry of a product. Carried out various statistical methods such as paired T-tests and regression analysis to assess brand reputation, customer buying preferences and product effectiveness
 
   
   **Skills & Tools**: Descriptive Statistics, Probability & Probability Distributions, Estimation, Hypothesis Testing
@@ -135,3 +135,27 @@ The project involved drawing inferences from 2 case studies, namely - Hay Fever 
   - Created SQL queries to extract business insights from data warehouse of a bicycle company
   - Analyzed database physical structure and functional requirements of virtual users 
   - Developed ETL process for production data utilizing Visual Studio, and built production data warehouse in SQL
+
+* Shiny App
+  
+  - Created an application using Shiny and Microsoft SSMS to support the database management for Dali Paris Art gallery’s 10 branches, included CRUD functions and         analytics of various artists and artworks based on the number of sales and likes on the web application.
+
+<br />
+
+## Data Visualisation Projects
+
+* [Visualization of production companies’ HR data to develop analytics for HR manager](https://github.com/hmr2899/statistical-analysis)
+ 
+  Case: I work in the HR Department for Production Company.  The HR Manager wants to better understand how they are doing.  I need to develop some analytics using       the data we have available.  
+  
+* [Visualizing Insurance Claims using Tableau](https://github.com/hmr2899/statistical-analysis)
+ 
+  Case: This project explored the art of problem-solving with the aid of visual analytics. Tableau’s data visualization tools were used to create interactive           dashboards to provide high-level insights to the CEO of an Insurance company to drive the company's policymaking.  
+  
+* Data Visualisation | Vistra Coorp
+  
+  - Analyzed data on SOX Compliance and Controls processes to assist in development of future requirements
+  - Combined data from multiple sources, cleansed data in Alteryx and built dashboards using Tableau illustrating control procedures insights and presented results       to senior management highlighting proposed system development strategy
+
+
+
