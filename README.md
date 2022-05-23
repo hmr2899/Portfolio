@@ -160,5 +160,5 @@ The project involved drawing inferences from 2 case studies, namely - Hay Fever 
 ## Certifications
 
   - CCNA Routing and Switching: Introduction to Networks
- <img width="48" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGkbfwG3S0TkQ/company-logo_100_100/0/1532970672836?e=1661385600&amp;v=beta&amp;t=-oMjbi7YZE6kCMC49UIHY_hvCHfgsQmxqTRpXPJx9ns" loading="lazy" height="48" alt="American Heart Association logo" id="ember1383" class="ivm-view-attr__img--centered EntityPhoto-square-3">
+ <img width="48" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/AHA.png" loading="lazy" height="48" alt="American Heart Association logo">
 
