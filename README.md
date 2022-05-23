@@ -107,3 +107,31 @@ The project involved drawing inferences from 2 case studies, namely - Hay Fever 
   
   **Skills & Tools**: Descriptive Statistics, Probability & Probability Distributions, Estimation, Hypothesis Testing
   
+  * [Best Rest Market Analysis](https://github.com/hmr2899/statistical-analysis)
+ 
+  Analyzed data compiled in 3 different research studies related to mattress sales, customer reviews and product performance.Gathered insights to support an      acquisition decision and market entry of a product. Carried out various statistical methods such as paired T-tests and regression analysis to assess brand reputation, customer buying preferences and product effectiveness
+
+  
+  **Skills & Tools**: Descriptive Statistics, Probability & Probability Distributions, Estimation, Hypothesis Testing
+  
+  * [Great Wolf Resorts - Test Planning](https://github.com/hmr2899/statistical-analysis)
+ 
+  Great Wolf Resorts wants to find the optimal pricing for its burgers. For this reason, its management is interested in running a test on their burger prices and has   expressed interest in knowing what test plan we would recommend for them. 
+  
+  **Skills & Tools**: Simple paired testing, A/B Testing
+  
+ <br />
+
+## SQL Projects
+
+* Business Intelligence | Sales Report Analysis, Bicycle company
+
+  • Developed SQL queries to extract business insights from the data warehouse of a bicycle company
+  • Performed historical sales analysis for retail and wholesale segments using SQL joins, partitions, temporary tables, and window aggregation functions
+  • Built crosstab report in Power BI providing sales insights segmented by product category and fiscal year
+  
+* Business Intelligence | ETL,  Bicycle company
+  
+  • Created SQL queries to extract business insights from data warehouse of a bicycle company
+  • Analyzed database physical structure and functional requirements of virtual users 
+  • Developed ETL process for production data utilizing Visual Studio, and built production data warehouse in SQL
