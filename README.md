@@ -28,3 +28,7 @@ The project involved drawing inferences from 2 case studies, namely - Bank Marke
 **Skills & Tools**: Clustering, CART, Random Forest, Artificial Neural Networks
 
 #
+
+<img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/income.jpg"> **[US Census Income prediction](https://github.com/archd3sai/Predicting-GDP-of-India)**
+
+The objective of the project is to predict whether a person makes over 50K a year given their demographic variations. To achieve this, several classification techniques are explored. In the end, random forest model yields to the best prediction result.
