@@ -38,7 +38,7 @@ The objective of the project is to predict whether a person makes over 50K a yea
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/income.png"> **[US Census Income prediction](https://github.com/hmr2899/us-census-income)**
+<img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/loan.jpg"> **[US Census Income prediction](https://github.com/hmr2899/us-census-income)**
 
 The objective of the project is to predict loan default from a bank for 30,000 customers using kNN and a neural network and also perform segmentation on customers to see if default rates differ by age segment.
 
