@@ -25,6 +25,8 @@ The project is based on the trips made by Uber drivers. Different aspects of the
 
 The project involved drawing inferences from 2 case studies, namely - Bank Marketing & Insurance. 
 
+
+
 **Skills & Tools**: Clustering, CART, Random Forest, Artificial Neural Networks
 
 #
