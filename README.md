@@ -38,7 +38,7 @@ The main objective of this project is to build a regression model that predicts 
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/bank-1.png"> **[Bank Customer Segmentation & Insurance Claim Prediction](https://github.com/hmr2899/bank-customer-segmentation)**
+<img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/bank-1.png"> **[Bank Customer Segmentation & Insurance Claim Prediction](https://github.com/hmr2899/Bank-and-insurance-model)**
 
 The project involved drawing inferences from 2 case studies, namely - Bank Marketing & Insurance.The concepts of Clustering, CART, Random Forest, Artificial Neural Network are used to draw inferences from these case studies.
 
@@ -46,7 +46,7 @@ The project involved drawing inferences from 2 case studies, namely - Bank Marke
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/income.png"> **[US Census Income prediction](https://github.com/hmr2899/us-census-income)**
+<img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/income.png"> **[US Census Income prediction](https://github.com/hmr2899/US-Census-Income-Analysis)**
 
 The objective of the project is to predict whether a person makes over 50K a year given their demographic variations. To achieve this, several classification techniques are explored.
 
@@ -54,21 +54,13 @@ The objective of the project is to predict whether a person makes over 50K a yea
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/loan.jpg"> **[Loan Default prediction](https://github.com/hmr2899/us-census-income)**
-
-The objective of the project is to predict loan default from a bank for 30,000 customers using kNN and a neural network and also perform segmentation on customers to see if default rates differ by age segment.
-
-**Skills & Tools**: KNN, K-Means Clustering, Neural Network.
-
-#
-
-<img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/election.jpg"> **[Election Exit Poll Prediction and U.S.A Presidential Speech Analysis](https://github.com/hmr2899/us-election)**
+<img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/election.jpg"> **[Election Exit Poll Prediction and U.S.A Presidential Speech Analysis](https://github.com/hmr2899/US-Elections-Analysis)**
 
 This project is based on 2 case-studies: Vote Prediction and Text Analysis. The 1st project is to predict which party a citizen is going to vote for on the basis of their age and according to the survey answers given by the citizens. The 2nd project is based on the analysis of the inaugural U.S.A. Presidential speeches. **Skills & Tools**: Text Mining Analytics, SVM - KNN - Naive Bayes, Ensemble Techniques, Logistic Regression - LDA
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/wine.png"> **[Time Series Forecasting](https://github.com/hmr2899/time-series-project)**
+<img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/wine.png"> **[Time Series Forecasting](https://github.com/hmr2899/Wine-sales-forecast-model)**
 
 The objective of the project is to create multiple forecast models for two different products of a particular Wine Estate and recommend the optimum forecasting model to predict monthly sales for the next 12 months
 
@@ -76,7 +68,7 @@ The objective of the project is to create multiple forecast models for two diffe
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/credit.png"> **[Credit Risk Default Model](https://github.com/hmr2899/credit-risk-model)**
+<img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/credit.png"> **[Credit Risk Default Model](https://github.com/hmr2899/Credit-risk-default-modell)**
 
 The project involved developing a credit risk default model on Indian companies using the performance data of several companies to predict whether a company is going to default on upcoming loan payments.
 
@@ -84,7 +76,7 @@ The project involved developing a credit risk default model on Indian companies 
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/grocery.jpg"> **[Recommending ways to increase revenue of a Grocery Store](https://github.com/hmr2899/Market-basket-analysis)**
+<img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/grocery.jpg"> **[Recommending ways to increase revenue of a Grocery Store](https://github.com/hmr2899/Grocery-store-analysis)**
 
 The project involves conducting a thorough analysis of Point of Sale (POS) Data for providing recommendations through which a grocery store can increase its revenue by coming up with attractive combo & discount offers for customers.
 
@@ -92,7 +84,7 @@ The project involves conducting a thorough analysis of Point of Sale (POS) Data 
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/anova.png"> **[Drug Analysis using ANOVA and Principal Component Analysis on College Admissions Data](https://github.com/hmr2899/college-admissions-data-analysis)**
+<img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/anova.png"> **[Drug Analysis using ANOVA and Principal Component Analysis on College Admissions Data](https://github.com/hmr2899/College-admissions-data-analysis)**
 
 The project involved drawing inferences from 2 case studies, namely - Hay Fever Drug Analysis, College Admissions Data. The concepts of Exploratory Data Analysis, Analysis of Variance, and Principal Component Analysis are used to draw inferences from these case studies.
 
@@ -107,14 +99,14 @@ The project involved drawing inferences from 2 case studies, namely - Hay Fever 
   
   **Skills & Tools**: Descriptive Statistics, Probability & Probability Distributions, Estimation, Hypothesis Testing
   
-  * [Best Rest Market Analysis](https://github.com/hmr2899/statistical-analysis)
+  * [Best Rest Market Analysis](https://github.com/hmr2899/Statistical-analysis)
  
   Analyzed data compiled in 3 different research studies related to mattress sales, customer reviews and product performance.Gathered insights to support an            acquisition decision and market entry of a product. Carried out various statistical methods such as paired T-tests and regression analysis to assess brand reputation, customer buying preferences and product effectiveness
 
   
   **Skills & Tools**: Descriptive Statistics, Probability & Probability Distributions, Estimation, Hypothesis Testing
   
-  * [Great Wolf Resorts - Test Planning](https://github.com/hmr2899/statistical-analysis)
+  * [Great Wolf Resorts - Test Planning](https://github.com/hmr2899/Great-wolf-resort-analysis)
  
   Great Wolf Resorts wants to find the optimal pricing for its burgers. For this reason, its management is interested in running a test on their burger prices and has   expressed interest in knowing what test plan we would recommend for them. 
   
