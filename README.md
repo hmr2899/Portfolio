@@ -30,7 +30,7 @@ The project involved drawing inferences from 2 case studies, namely - Bank Marke
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/income.jpg"> **[US Census Income prediction](https://github.com/hmr2899/us-census-income)**
+<img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/income.png"> **[US Census Income prediction](https://github.com/hmr2899/us-census-income)**
 
 The objective of the project is to predict whether a person makes over 50K a year given their demographic variations. To achieve this, several classification techniques are explored.
 
