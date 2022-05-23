@@ -52,8 +52,16 @@ This project is based on 2 case-studies: Vote Prediction and Text Analysis. The 
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/wine.png"> **[Time Series Forecasting](https://github.com/hmr2899/us-census-income)**
+<img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/wine.png"> **[Time Series Forecasting](https://github.com/hmr2899/time-series-project)**
 
 The objective of the project is to create multiple forecast models for two different products of a particular Wine Estate and recommend the optimum forecasting model to predict monthly sales for the next 12 months
 
 **Skills & Tools**: EDA, Exponential Smoothing Models, ARIMA/SARIMA Models, Moving Average Models
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/credit.png"> **[Credit Risk Default Model](https://github.com/hmr2899/credit-risk-model)**
+
+The project involved developing a credit risk default model on Indian companies using the performance data of several companies to predict whether a company is going to default on upcoming loan payments.
+
+**Skills & Tools**: Credit Risk, Loan Default, Finance
