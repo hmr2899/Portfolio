@@ -12,7 +12,7 @@ This Portfolio is a compilation of all the Data Analytics projects I have done. 
 
 ## Projects
 
-### Data Mining
+### Data Mining & Predictive Modelling
 
 <img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/uber.jpg"> **[Uber Drive Exploratory Data Analysis](https://github.com/hmr2899/Uber-EDA)**
 
@@ -43,3 +43,11 @@ The objective of the project is to predict whether a person makes over 50K a yea
 The objective of the project is to predict loan default from a bank for 30,000 customers using kNN and a neural network and also perform segmentation on customers to see if default rates differ by age segment.
 
 **Skills & Tools**: KNN, K-Means Clustering, Neural Network.
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/election.jpg"> **[Election Exit Poll Prediction and U.S.A Presidential Speech Analysis](https://github.com/hmr2899/us-election)**
+
+This project is based on 2 case-studies: Vote Prediction and Text Analysis. The 1st project is to predict which party a citizen is going to vote for on the basis of their age and according to the survey answers given by the citizens. The 2nd project is based on the analysis of the inaugural U.S.A. Presidential speeches.
+
+**Skills & Tools**: Text Mining Analytics, Support Vector Machine - K Nearest Neighbour - Naive Bayes, Ensemble Techniques, Logistic Regression - LDA
