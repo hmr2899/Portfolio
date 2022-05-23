@@ -98,6 +98,7 @@ The project involved drawing inferences from 2 case studies, namely - Hay Fever 
 
 **Skills & Tools**: ANOVA, PCA, EDA
 
+<br />
 
 ## Statistical Projects: A/B Testing, Hypothesis Testing
   * [Statistical & Probabilistic Analysis ](https://github.com/hmr2899/statistical-analysis)
