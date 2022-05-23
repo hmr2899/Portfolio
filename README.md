@@ -25,6 +25,5 @@ The project is based on the trips made by Uber drivers. Different aspects of the
 <img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/bank.png"> **[Bank Customer Segmentation & Insurance Claim Prediction](https://github.com/hmr2899/bank-customer-segmentation)**
 
 The project involved drawing inferences from 2 case studies, namely - Bank Marketing & Insurance. The concepts of Clustering, CART, Random Forest, ANN are used to draw inferences from these case studies. Various performance metrics have been used to validate the performance of predictions on Test & Train sets.
-**Skills & Tools**: Clustering, CART, Random Forest, Artificial Neural Networks
 
 #
