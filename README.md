@@ -56,4 +56,4 @@ This project is based on 2 case-studies: Vote Prediction and Text Analysis. The 
 
 The objective of the project is to create multiple forecast models for two different products of a particular Wine Estate and recommend the optimum forecasting model to predict monthly sales for the next 12 months
 
-**Skills & Tools**: EDA for Time Series Data, Exponential Smoothing Models, ARIMA/SARIMA Models, Moving Average Models
+**Skills & Tools**: EDA, Exponential Smoothing Models, ARIMA/SARIMA Models, Moving Average Models
