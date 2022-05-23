@@ -98,12 +98,12 @@ The project involved drawing inferences from 2 case studies, namely - Hay Fever 
 
 **Skills & Tools**: ANOVA, PCA, EDA
 
+
 ### Statistical Projects: A/B Testing, Hypothesis Testing
-  * [[Statistical & Probabilistic Analysis ](https://github.com/hmr2899/statistical-analysis)]
+
+  * [Statistical & Probabilistic Analysis ](https://github.com/hmr2899/statistical-analysis)
+ 
   The project involved drawing inferences from 3 case studies, namely - Wholesale Customer Data (Store Sales), University Survey Data & Manufacturing Shingles Data.     The concepts of various measures of Descriptive Statistics, Probability and Probability Distributions and various measures of Estimation & Hypothesis Testing are     used to analyse these case studies.
   
   **Skills & Tools**: Descriptive Statistics, Probability & Probability Distributions, Estimation, Hypothesis Testing
   
-  * [Ramen Ratings EDA \[ENG\]](https://github.com/Iqrar99/data-science-portfolio/blob/master/ramen-ratings-eda.ipynb)
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Iqrar99/data-science-portfolio/blob/master/ramen-ratings-eda.ipynb)
-
