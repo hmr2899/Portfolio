@@ -19,7 +19,7 @@ The project is based on the trips made by Uber drivers. Different aspects of the
 
  **Skills & Tools**: Python Functions, Data Interpretation, EDA
 
-
+#
 
 <img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/bank.png"> **[Bank Customer Segmentation & Insurance Claim Prediction](https://github.com/hmr2899/bank-customer-segmentation)**
 
