@@ -2,7 +2,7 @@
 
 ## Introduction
 I am a software Developer,an Aspiring Analyst and a Data Scientist.
-This Portfolio is a compilation of all the Data Analytics projects I have done. This portfolio also contains skills and certificates. 
+This Portfolio is a compilation of all the Data Analytics projects I have done. 
 
 ## Core Competencies
 
@@ -90,6 +90,11 @@ The project involved drawing inferences from 2 case studies, namely - Hay Fever 
 
 **Skills & Tools**: ANOVA, PCA, EDA
 
+* Twitter Sentiment Analysis on Climate change
+
+  - Extracted & Analyzed tweets using NLP and data mining techniques to develop machine learning models.
+  - Identified the optimal model to automatically classify user's opinions and interpreted trends of user's opinions about climate change
+  
 <br />
 
 ## Statistical Projects: A/B Testing, Hypothesis Testing
@@ -136,11 +141,11 @@ The project involved drawing inferences from 2 case studies, namely - Hay Fever 
 
 ## Data Visualisation Projects
 
-* [Visualization of production companies’ HR data to develop analytics for HR manager](https://github.com/hmr2899/statistical-analysis)
+* [Visualization of production companies’ HR data to develop analytics for HR manager](https://github.com/hmr2899/HR-Data-Visualisation)
  
   Case: I work in the HR Department for Production Company.  The HR Manager wants to better understand how they are doing.  I need to develop some analytics using       the data we have available.  
   
-* [Visualizing Insurance Claims using Tableau](https://github.com/hmr2899/statistical-analysis)
+* [Visualizing Insurance Claims using Tableau](https://public.tableau.com/app/profile/himasri7732/viz/DVTProject_16162779617250/Storyboard)
  
   Case: This project explored the art of problem-solving with the aid of visual analytics. Tableau’s data visualization tools were used to create interactive           dashboards to provide high-level insights to the CEO of an Insurance company to drive the company's policymaking.  
   
@@ -149,7 +154,16 @@ The project involved drawing inferences from 2 case studies, namely - Hay Fever 
   - Analyzed data on SOX Compliance and Controls processes to assist in development of future requirements
   - Combined data from multiple sources, cleansed data in Alteryx and built dashboards using Tableau illustrating control procedures insights and presented results       to senior management highlighting proposed system development strategy
 
-## Certifications
+## Other Projects
 
- <img width="55" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/AHA.png" loading="lazy" height="48" alt="American Heart Association logo"> CPR, AED & First Aid Certification
+* Ref-O-Matic Project | Project Manager
+
+  -  Devised a ranking model algorithm to analyze 100-word statements of Research Evaluation Framework (REF) 
+  -  Created a Python GUI to display results
+  
+* NAO Programmable Humanoid Project | Project Manager
+  
+  - Implemented project as a Project Manager and helped to achieve goals using agile methodology 
+  - Programmed robot using Choregraphe software to manage access of authorized students and staff to controlled sit
+
 
