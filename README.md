@@ -90,10 +90,11 @@ The project involved drawing inferences from 2 case studies, namely - Hay Fever 
 
 **Skills & Tools**: ANOVA, PCA, EDA
 
-* Twitter Sentiment Analysis on Climate change
+#
 
-  - Extracted & Analyzed tweets using NLP and data mining techniques to develop machine learning models.
-  - Identified the optimal model to automatically classify user's opinions and interpreted trends of user's opinions about climate change
+<img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/twitter.png"> **Twitter Sentiment Analysis on Climate change**
+
+Extracted & Analyzed tweets using NLP and data mining techniques to develop machine learning models.Identified the optimal model to automatically classify user's opinions and interpreted trends of user's opinions about climate change
   
 <br />
 
