@@ -166,6 +166,6 @@ Extracted & Analyzed tweets using NLP and data mining techniques to develop mach
 * NAO Programmable Humanoid Project | Project Manager
   
   - Implemented project as a Project Manager and helped to achieve goals using agile methodology 
-  - Programmed robot using Choregraphe software to manage access of authorized students and staff to controlled sit
+  - Programmed robot using Choregraphe software to manage access of authorized students and staff to controlled site
 
 
