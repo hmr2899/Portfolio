@@ -26,7 +26,7 @@ The project is based on the trips made by Uber drivers. Different aspects of the
 
 Implemented various machine learning algorithms & selected an ideal algorithm to predict the potential behavior of customers & evaluate the factors driving the likelihood of churn.
 
-**Skills & Tools**:  Random Forest, Logistic regression, SVM, KNN, K-Means Clustering 
+**Skills & Tools**:Random Forest, Logistic regression, SVM, KNN, Clustering 
 
 #
 
