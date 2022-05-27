@@ -68,14 +68,6 @@ The objective of the project is to create multiple forecast models for two diffe
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/credit.png"> **[Credit Risk Default Model](https://github.com/hmr2899/Credit-risk-default-modell)**
-
-The project involved developing a credit risk default model on Indian companies using the performance data of several companies to predict whether a company is going to default on upcoming loan payments.
-
-**Skills & Tools**: Credit Risk, Loan Default, Finance
-
-#
-
 <img align="left" width="250" height="150" src="https://github.com/hmr2899/Data-Analytics-Portfolio/blob/main/Images/grocery.jpg"> **[Recommending ways to increase revenue of a Grocery Store](https://github.com/hmr2899/Grocery-store-analysis)**
 
 The project involves conducting a thorough analysis of Point of Sale (POS) Data for providing recommendations through which a grocery store can increase its revenue by coming up with attractive combo & discount offers for customers.
@@ -103,13 +95,6 @@ Extracted & Analyzed tweets using NLP and data mining techniques to develop mach
   * [Statistical & Probabilistic Analysis ](https://github.com/hmr2899/statistical-analysis)
  
   The project involved drawing inferences from 3 case studies, namely - Wholesale Customer Data (Store Sales), University Survey Data & Manufacturing Shingles Data.     The concepts of various measures of Descriptive Statistics, Probability and Probability Distributions and various measures of Estimation & Hypothesis Testing are     used to analyse these case studies.
-  
-  **Skills & Tools**: Descriptive Statistics, Probability & Probability Distributions, Estimation, Hypothesis Testing
-  
-  * [Best Rest Market Analysis](https://github.com/hmr2899/Statistical-analysis)
- 
-  Analyzed data compiled in 3 different research studies related to mattress sales, customer reviews and product performance.Gathered insights to support an            acquisition decision and market entry of a product. Carried out various statistical methods such as paired T-tests and regression analysis to assess brand reputation, customer buying preferences and product effectiveness
-
   
   **Skills & Tools**: Descriptive Statistics, Probability & Probability Distributions, Estimation, Hypothesis Testing
   
