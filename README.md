@@ -1,14 +1,14 @@
 # Data Analytics Portfolio 
 
 ## Introduction
-I am a Software Developer,an Aspiring Analyst and a Data Scientist.
-This Portfolio is a compilation of all the Data Analytics projects I have done. 
+I am currently an AI Engineer focused on building scalable, impactful solutions that drive efficiency and accuracy. My expertise lies in generative AI, machine learning, and model evaluation, where I have consistently improved workflows and enhanced model performance. I’m passionate about innovation and committed to staying at the forefront of emerging technologies to develop cutting-edge, impactful solutions.
+
+This Portfolio is a compilation of all the projects I worked n. 
 
 ## Core Competencies
 
-- **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, A/B Testing and Experimentation Design, Big Data Analytics
-- **Languages**: SQL, Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib, Seaborn), R (Dplyr, Tidyr, Caret, Ggplot2), Hadoop, Spark, C++, C, Java, HTML, CSS, Javascript, PHP 
-- **Tools**: MySQL, Tableau, Power BI, Git, PySpark, Amazon Web Services (AWS), Flask, Alteryx, Visual Studio, PyCharm, JIRA
+- **Programming & Tools**: Python, SQL, R, Spark, JavaScript, C++, PHP, HTML, CSS, JavaScript, Tableau, Power BI, AWS, SAP, Pandas, Alteryx, Sci-kit Learn, OpenCV, Git, ETL, Microsoft Azure, Docker, Kubernetes
+- **Generative AI & ML**: Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Prompt Engineering, GPT, BERT, Model Evaluation, Hyperparameter Tuning
 
 ## Projects
 
