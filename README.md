@@ -1,4 +1,4 @@
-# Data Analytics Portfolio 
+# Projects Portfolio 
 
 ## Introduction
 I am currently an AI Engineer focused on building scalable, impactful solutions that drive efficiency and accuracy. My expertise lies in generative AI, machine learning, and model evaluation, where I have consistently improved workflows and enhanced model performance. I’m passionate about innovation and committed to staying at the forefront of emerging technologies to develop cutting-edge, impactful solutions.
